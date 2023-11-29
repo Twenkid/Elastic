@@ -1,7 +1,19 @@
 # Elastic
+
+# Refresh 29.11.2023
+
+Install 8.
+
+# 29.12.2021 ...
 Elasticsearch exercises and systems
 
-Install...
+* Install and configure new version 8. ...
+* /config/yaml....
+* JVM start heapsize, maxsize
+* Create a database/index, fill with data: movie databases, pandas (issues with the Anaconda installation, pandas 1.5.1, ... clip (for CLIP-retrieval ... ) messed up --> running on the python3.9 installation
+* Many exercises and continue
+
+...
 
 http://localhost:9200
 
