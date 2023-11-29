@@ -6,10 +6,19 @@
   
 ## Elasticsearch exercises ...
 
-* Install and configure new version 8. ...
+* Install and configure new version 8.11.1 ...  https://www.elastic.co/downloads/elasticsearch
+
 * /config/yaml....
 * JVM start heapsize, maxsize
+
+c:\Elastic\bin>set ES_JAVA_OPTS=-Xms1g -Xmx1g
+
+(No "" quotes ... 500M ... etc.)
+
+c:\Elastic\bin>elasticsearch.bat
+
 * Create a database/index, fill with data: movie databases, pandas (issues with the Anaconda installation, pandas 1.5.1, ... clip (for CLIP-retrieval ... ) messed up --> running on the python3.9 installation
+
 * Many exercises and continue
 
 
