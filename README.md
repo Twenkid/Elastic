@@ -19,11 +19,12 @@ c:\Elastic\bin>elasticsearch.bat
 
 * Create a database/index, fill with data: movie databases, pandas (issues with the Anaconda installation, pandas 1.5.1, ... clip (for CLIP-retrieval ... ) messed up --> running on the python3.9 installation
 
-* Do many exercises, explore queries, tasks; add your data and use cases etc. ...
+* Do many exercises, explore queries, tasks; add your data and use cases etc. Practise also pandas ...
 
 Valuable tutorials etc.:
 
 * https://dylancastillo.co/elasticsearch-python/
+* https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots/  -- 31 MB, 35000 movies
 
 
 
