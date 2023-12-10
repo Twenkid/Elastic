@@ -24,7 +24,9 @@ c:\Elastic\bin>elasticsearch.bat
 Valuable tutorials etc.:
 
 * https://dylancastillo.co/elasticsearch-python/
+* https://github.com/dylanjcastillo/random/blob/main/elasticsearch.ipynb?ref=dylancastillo.co
 * https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots/  -- 31 MB, 35000 movies
+* https://github.com/kiq005/movie-recommendation/blob/master/src/dataset/wiki_movie_plots_deduped.csv
 
 
 
